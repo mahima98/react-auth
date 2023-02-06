@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBCfYp97jse3emwRyb0pI_i7BQ0YPM-lHE",
-  authDomain: "vue-chat-app-cdea6.firebaseapp.com",
+  authDomain: "react-auth-sooty.vercel.app",
   projectId: "vue-chat-app-cdea6",
   storageBucket: "vue-chat-app-cdea6.appspot.com",
   messagingSenderId: "329414711338",
